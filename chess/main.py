@@ -503,3 +503,6 @@ def drawEndGameText(screen, text):
 # if we import main then main function wont run it will run only while running this file
 if __name__ == "__main__":
     main()
+
+
+
