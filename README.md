@@ -135,3 +135,4 @@ In chessAi.py:
 
 This project is open to contributions!
 If you’d like to report issues, suggest improvements, or add new features, feel free to open a PR or issue.
+
