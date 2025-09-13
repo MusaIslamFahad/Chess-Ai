@@ -160,6 +160,7 @@ Negative score is good for black
 '''
 
 
+
 def scoreBoard(gs):
     if gs.checkmate:
         if gs.whiteToMove:
@@ -301,3 +302,4 @@ def scoreMaterial(board):
 
     return score
 '''
+
