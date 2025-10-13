@@ -499,10 +499,10 @@ def drawEndGameText(screen, text):
     textObject = font.render(text, 0, p.Color('Black'))
     screen.blit(textObject, textLocation.move(1, 1))
 
-
 # if we import main then main function wont run it will run only while running this file
 if __name__ == "__main__":
     main()
+
 
 
 
