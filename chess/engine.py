@@ -788,4 +788,5 @@ class Move():
             return moveString + self.colsToFiles[self.startCol] + "x" + endSquare
         return moveString + self.colsToFiles[self.startCol] + endSquare
         
+      
         
